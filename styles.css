@@ -9,21 +9,19 @@ body {
 }
 
 .container {
-    line-height: 0;
     vertical-align: top;
-    margin: 1px;
+    margin: 0;
     display: flex;
     flex-direction: column;
 }
 
 .text-block {
-    line-height: 0;
     vertical-align: top;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     max-width: 600px;
-    margin-top: 1px;
+    margin-top: 0;
 }
 
 a {
