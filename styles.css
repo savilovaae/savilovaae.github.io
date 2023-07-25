@@ -13,7 +13,6 @@ body {
     margin: 1px;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .text-block {
@@ -23,23 +22,6 @@ body {
     justify-content: flex-start;
     max-width: 600px;
     margin-top: 1px;
-}
-
-
-@media only screen and (max-width: 600px) {
-    .person-block {
-        flex-direction: column;
-        justify-content: normal;
-    }
-
-    .person-block img {
-        width: 100%;
-        height: auto;
-    }
-
-    .text-block {
-        margin-top: 20px;
-    }
 }
 
 a {
