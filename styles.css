@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+    line-height: 0;
     vertical-align: top;
     margin: 1px;
     display: flex;
@@ -16,6 +17,7 @@ body {
 }
 
 .text-block {
+    line-height: 0;
     vertical-align: top;
     display: flex;
     flex-direction: column;
