@@ -17,9 +17,9 @@ body {
 .text-block {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* обновлено это свойство */
+    justify-content: flex-start;
     max-width: 600px; 
-    margin-top: 5px; 
+    margin-top: 2px;
 }
 
 
