@@ -10,7 +10,7 @@ body {
 
 .container {
     vertical-align: top;
-    margin: 1px;
+    margin: 0;
     display: flex;
     flex-direction: column;
 }
@@ -21,10 +21,8 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     max-width: 600px;
-    margin-top: 1px;
+    margin: 0;
 }
-
-
 
 
 a {
